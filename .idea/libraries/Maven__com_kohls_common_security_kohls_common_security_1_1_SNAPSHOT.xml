@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.kohls.common.security:kohls-common-security:1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/kohls/common/security/kohls-common-security/1.1-SNAPSHOT/kohls-common-security-1.1-20170913.190945-594.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/kohls/common/security/kohls-common-security/1.1-SNAPSHOT/kohls-common-security-1.1-20170913.190945-594-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/kohls/common/security/kohls-common-security/1.1-SNAPSHOT/kohls-common-security-1.1-20170913.190945-594-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
